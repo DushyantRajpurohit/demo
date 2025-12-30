@@ -1,0 +1,7 @@
+supabase
+newspaper3k
+requests
+Pillow
+python-dotenv
+lxml_html_clean
+beautifulsoup4
